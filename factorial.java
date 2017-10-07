@@ -9,19 +9,8 @@
     2.variable 'a_limit'= i*(no. of digits in i) is sufficient
     3.Tested on 64-bit Windows OS machine
 
-    File info  ==>
-
-    Author      :       Ankur Parihar
-    Date        :       26 June 2017
-    Time        :       21:07:00
-    Version     :       1.0.0.0
-      
-    facebook    :       https://fb.com/ankur.parihar.773
-
     See this program in action ==>
     Youtube     :       https://youtu.be/aXc5QUjlGO8
-
-    Copyright @ Ankur Parihar 2017
 */
 
 import java.util.Scanner;
