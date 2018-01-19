@@ -11,6 +11,7 @@
 
     See this program in action ==>
     Youtube     :       https://youtu.be/aXc5QUjlGO8
+    asciicast   :       https://asciinema.org/a/T6rMdAYBiBspjhRmOWhXtpWvh
 */
 
 import java.util.Scanner;
