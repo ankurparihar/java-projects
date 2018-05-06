@@ -1,9 +1,3 @@
-/**
- * Compile using command : javac PortScanner.java
- * Run using command	 : java PortScanner
- */
-
-
 import java.net.Socket;
 import java.util.Scanner;
 import java.lang.Exception;
